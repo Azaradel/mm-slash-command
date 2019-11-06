@@ -1,2 +1,2 @@
-# mm-shell-command
-Boilerplate for writing shell command handlers for Mattermost
+# mm-slash-command
+### Boilerplate for writing slash command handlers for Mattermost
